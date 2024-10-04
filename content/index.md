@@ -1,6 +1,9 @@
 ---
-title: Welcome to Quartz
+title: index
+draft: false
+tags:
 ---
 
-This is a blank Quartz installation.
-See the [documentation](https://quartz.jzhao.xyz) for how to get started.
+11111 
+
+[[Useful Syntax]]
