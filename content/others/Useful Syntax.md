@@ -8,6 +8,7 @@ tags: Others
 > 
 > _... is the way that makes the most sense for you._
 
+
 ***
 
 <div style="border: 1px solid #ffcc00; background-color: #fff4e5; padding: 10px; border-radius: 5px;">
@@ -26,5 +27,14 @@ tags: Others
 
 <details>
   <summary>text here</summary>
-  <p>text here</a>.</p>
+  <ul>
+  <li> Python </li>
+  <li> CPP </li>
+  <li> Java </li>
+</ul>
+ <ul>
+  text
+</ul>
+  <p>text here.</p>
+  <p><a href="./Useful Syntax.md">Useful Syntax</a></p>
 </details>
